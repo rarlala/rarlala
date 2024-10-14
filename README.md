@@ -39,18 +39,19 @@
 
 
 <!-- https://github.com/mazassumnida/mazassumnida -->
-### 🧩 Algorithm
+<!--### 🧩 Algorithm -->
 <!-- [![Solved.ac 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=rarla)](https://solved.ac/rarla) -->
-[![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=rarla)](https://solved.ac/rarla)
+<!-- [![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=rarla)](https://solved.ac/rarla) -->
 
 
 <!-- https://github.com/anuraghazra/github-readme-stats?tab=readme-ov-file#all-demos -->
-### 👩🏻‍💻 github stats
+
+<!--### 👩🏻‍💻 github stats
+
 <a href="https://github.com/rarlala/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=rarlala" />
 </a>
 <a href="https://github.com/rarlala/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rarlala&layout=compact&langs_count=8&card_width=320" />
 </a>
-
-</div>
+-->
